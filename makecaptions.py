@@ -11,7 +11,7 @@ font_size = 20
 fontdir = "C:/Windows/Fonts/"
 italicfont = "Bitter-Italic.otf"
 regularfont = "Bitter-Regular.otf"
-fontcolor = '#B97C1B'
+fontcolor = '#36250b'
 
 default_x = 600
 default_y = 800
